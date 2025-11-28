@@ -98,7 +98,7 @@ UV automatically:
 ## How to Use
 
 1. **Select Your Profile**: Choose your weight, training intensity, height, and body goal from the dropdown menus
-2. **Get AI Recommendations**: Click the "Get AI Recommendations" button
+2. **Get AI Recommendations**: Click the "Generate Comprehensive Fitness Plan" button
 3. **Review Results**: View your personalized fitness plan and nutrition guidelines
 4. **Download**: Save your recommendations for offline reference
 
